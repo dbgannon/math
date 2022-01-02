@@ -4,3 +4,4 @@ Based on the paper
 “Advancing mathematics by guiding human intuition with AI”. Nature, Vol 600, 2 December 2021)
 
 notebook 1: knot-theory-final
+notebook 2: showing how to use captum to compute salience
